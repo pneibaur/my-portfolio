@@ -13,7 +13,7 @@ const About = (props) => {
     }, [])
     const loaded = () => {
         return (
-            <div>
+            <div className='main'>
                 <img src={about.headshot} alt={about.name} />
                 <h1>{about.name} </h1>
                 <h3>{about.email}</h3>

@@ -24,6 +24,7 @@ function App() {
           <About URL={URL} />
         </Route>
       </Switch>
+      <Footer />
     </div>
   ); 
 }
