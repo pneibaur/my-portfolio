@@ -26,7 +26,7 @@ footer {
 button {
   padding: 1em 2em;
   border: none;
-  background-color: #6bd97e;
+  background-color: rgb(154, 154, 154);
   transition-duration: .4s;
 }
 button:hover {
